@@ -2,7 +2,7 @@
 
 <h2 align="left">🌟 Introduction</h2>
 <p align="left">
-Développeur passionné avec une expertise dans le <b>développement mobile (Android, Flutter/Dart)</b> et les <b>technologies web (HTML, CSS, JavaScript, PHP, Symfony)</b>. Je suis à l'aise avec les systèmes de bases de données variés comme <b>MySQL, MariaDB et MS SQL Server</b>, et j'utilise <b>Docker et Git</b> pour une gestion de projet efficace. Mon objectif est de créer des applications performantes et innovantes.
+Développeur passionné par le <b>développement mobile (Android, Flutter/Dart)</b> et les <b>technologies web (HTML, CSS, JavaScript, PHP, Symfony)</b>. Je suis plutot l'aise avec les systèmes de bases de données variés comme <b>MySQL, MariaDB et MS SQL Server</b>, et j'utilise <b>Docker et Git</b> pour une gestion de projet efficace. Mon objectif est de créer des applications performantes et innovantes.
 </p>
 
 <h3 align="left">Connect with me:</h3>
